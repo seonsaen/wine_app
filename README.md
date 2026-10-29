@@ -17,4 +17,4 @@ streamlit run app.py
 
 ## Деплой
 
-Ссылка на приложение: 
+Ссылка на приложение: https://wineapp-p9zwumwnqvwsalxtftxsc7.streamlit.app
